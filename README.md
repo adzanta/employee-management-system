@@ -9,9 +9,9 @@ Fitur utama terdiri dari login admin, dashboard, dan CRUD pegawai.
 
 -   **Laravel 11**
 -   **PHP 8.2**
--   **FilamentPHP v3**
+-   **FilamentPHP**
 -   **MySQL**
--   **TailwindCSS (default Filament)**
+-   **Node.js**
 
 ------------------------------------------------------------------------
 
