@@ -19,8 +19,8 @@ Fitur utama terdiri dari login admin, dashboard, dan CRUD pegawai.
 
 Gunakan akun berikut:
 
--   **Email:** admin@example.com\
--   **Password:** password
+-   **Email:** admin@example.com
+-   **Password:** 123
 
 Jika akun tidak ada, jalankan ulang seeder.
 
@@ -28,13 +28,13 @@ Jika akun tidak ada, jalankan ulang seeder.
 
 ## ⭐ Fitur Utama
 
--   Login admin\
+-   Login admin
 -   Dashboard
-    -   Total pegawai\
-    -   Chart pegawai per divisi\
-    -   5 pegawai terbaru\
--   CRUD pegawai lengkap\
--   Validasi form lengkap\
+    -   Total pegawai
+    -   Chart pegawai per divisi
+    -   5 pegawai terbaru
+-   CRUD pegawai lengkap
+-   Validasi form lengkap
 -   ID pegawai otomatis (**ULID**)
 
 ------------------------------------------------------------------------
@@ -53,6 +53,7 @@ git clone https://github.com/USERNAME/employee-management-system.git
 composer install
 npm install
 npm run build
+npm run dev
 ```
 
 ### 3️⃣ Copy file environment
