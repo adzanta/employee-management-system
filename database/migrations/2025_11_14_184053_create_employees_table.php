@@ -12,7 +12,7 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('employees', function (Blueprint $table) {
-            $table->ulid('id')->primary(); // ID unik otomatis
+            $table->ulid('id')->primary();
     
             // FIELD WAJIB
             $table->string('nik', 16)->unique();
