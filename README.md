@@ -1,6 +1,6 @@
 # 📘 Employee Management System (Laravel + Filament 3)
 
-Aplikasi manajemen pegawai untuk keperluan technical test.\
+Aplikasi manajemen pegawai
 Fitur utama terdiri dari login admin, dashboard, dan CRUD pegawai.
 
 ------------------------------------------------------------------------
